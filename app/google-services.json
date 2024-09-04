@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71743042996",
+    "project_id": "fixture-app-84d8e",
+    "storage_bucket": "fixture-app-84d8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71743042996:android:1fae486d6351647282aee1",
+        "android_client_info": {
+          "package_name": "com.example.fixtureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8jmv5mW_ACJxHvQIH_4ZRjKbhaXqpgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
